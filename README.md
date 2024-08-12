@@ -17,6 +17,8 @@
 ## **Overview**
 
 This analysis examines various aspects of the data job market, including the number of positions available in different job categories, the associated salaries, and the work settings that are most prevalent. The findings provide valuable insights for both job seekers and organizations, offering recommendations on how to navigate the current trends in the data industry.
+The data was extracted, transformed, and loaded (ETL process) using a MySQL database, and visualized with Power BI. The findings provide valuable insights for both job seekers and organizations, offering recommendations on how to navigate the current trends in the data industry.
+
 
 ## **Statement of the Problem**
 
